@@ -1,11 +1,5 @@
-#quokka, #liger, #sloth {
+#quokka, #liger, #sloth, #ligerClick, #slothClick {
   display: none;
 }
-.clickable {
-  cursor: pointer;
-  color: blue;
-}
 
-.clickable: hover {
-  text-decoration: underline;
-}
+
